@@ -1,0 +1,16 @@
+requests
+pandas 
+matplotlib
+folium
+seaborn
+python-dotenv
+geopandas
+pyarrow
+scipy
+seaborn
+plotly.express
+nbformat>=4.2.0
+
+#  pip install -r requirements.txt
+# python3 -m venv venv
+# source venv/bin/activate
