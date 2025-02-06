@@ -15,3 +15,5 @@ nbformat>=4.2.0
 # python3 -m venv venv
 # source venv/bin/activate
 # pip install folium matplotlib mapclassify
+# pip install folium mapclassify -q
+# pip install -U ipywidgets -q
