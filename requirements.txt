@@ -21,3 +21,4 @@ nbformat>=4.2.0
 # pip install duckdb
 # pip install sqlalchemy
 # pip install scikit-learn geopandas h3pandas -g
+# pip install folium matplotlib mapclassify -q
